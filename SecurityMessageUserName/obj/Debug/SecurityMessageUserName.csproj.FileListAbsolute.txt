@@ -1,0 +1,5 @@
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserName\bin\SecurityMessageUserName.dll.config
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserName\bin\SecurityMessageUserName.dll
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserName\bin\SecurityMessageUserName.pdb
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserName\obj\Debug\SecurityMessageUserName.dll
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserName\obj\Debug\SecurityMessageUserName.pdb

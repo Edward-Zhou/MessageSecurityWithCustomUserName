@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityMessageUserName", "SecurityMessageUserName\SecurityMessageUserName.csproj", "{ED148A22-EE5E-464B-B469-785D1474229C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityMessageUserNameWinForm", "SecurityMessageUserNameWinForm\SecurityMessageUserNameWinForm.csproj", "{ED70295B-7B44-4A1C-89A4-087ED8D9FB27}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED148A22-EE5E-464B-B469-785D1474229C} = {ED148A22-EE5E-464B-B469-785D1474229C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED148A22-EE5E-464B-B469-785D1474229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED148A22-EE5E-464B-B469-785D1474229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED148A22-EE5E-464B-B469-785D1474229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED148A22-EE5E-464B-B469-785D1474229C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED70295B-7B44-4A1C-89A4-087ED8D9FB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70295B-7B44-4A1C-89A4-087ED8D9FB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED70295B-7B44-4A1C-89A4-087ED8D9FB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70295B-7B44-4A1C-89A4-087ED8D9FB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

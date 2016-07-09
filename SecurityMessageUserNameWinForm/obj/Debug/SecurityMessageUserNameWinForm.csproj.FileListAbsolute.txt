@@ -1,0 +1,9 @@
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\bin\Debug\SecurityMessageUserNameWinForm.exe.config
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\bin\Debug\SecurityMessageUserNameWinForm.exe
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\bin\Debug\SecurityMessageUserNameWinForm.pdb
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.csprojResolveAssemblyReference.cache
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.Form1.resources
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.Properties.Resources.resources
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.csproj.GenerateResource.Cache
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.exe
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameWinForm\obj\Debug\SecurityMessageUserNameWinForm.pdb

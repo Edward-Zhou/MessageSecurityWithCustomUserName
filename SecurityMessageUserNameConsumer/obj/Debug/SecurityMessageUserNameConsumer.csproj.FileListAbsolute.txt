@@ -1,0 +1,6 @@
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\bin\Debug\SecurityMessageUserNameConsumer.exe.config
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\bin\Debug\SecurityMessageUserNameConsumer.exe
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\bin\Debug\SecurityMessageUserNameConsumer.pdb
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\obj\Debug\SecurityMessageUserNameConsumer.exe
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\obj\Debug\SecurityMessageUserNameConsumer.pdb
+D:\WCF\Check Point\SecurityMessageUserName\SecurityMessageUserNameConsumer\obj\Debug\SecurityMessageUserNameConsumer.csprojResolveAssemblyReference.cache
